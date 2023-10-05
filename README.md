@@ -2,7 +2,7 @@
 
 Submitted by: Christopher Petit
 
-Trivia App is an app that test your knowledge on some of rhe world's hardest questions.
+Trivia App is an app that test your knowledge on some of Sports trivia questions.
 
 Time spent: 6+ hours spent in total
 
@@ -10,37 +10,37 @@ Time spent: 6+ hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can view the current question and 4 different answers
-- [ ] User can view the next question after tapping an answer
-- [ ] User can answer at least 3 different questions
+- [X ] User can view the current question and 4 different answers
+- [X ] User can view the next question after tapping an answer
+- [X ] User can answer at least 3 different questions
 
 
 The following **optional** features are implemented:
 
 - [ ] User can use the vertical orientation of the app on any device
-- [ ] User can track the question they are on and how many questions are left
+- [X ] User can track the question they are on and how many questions are left
 - [ ] User can see how many questions they got correct after answering all questions
 - [ ] User should be able to restart the game after they've finished answering all questions
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- I feel that I did the assignment in a different way. I was still able to knock out all of the objectives but in a way that I was taught in Office Hours.
 
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/38f1576c99594cbcb481c1469f396d6e">
+    <a href="https://www.loom.com/share/37539b715eac46578b014bf77843f979">
     </a>
-    <a href="https://www.loom.com/share/38f1576c99594cbcb481c1469f396d6e">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/38f1576c99594cbcb481c1469f396d6e-with-play.gif">
+    <a href="https://www.loom.com/share/37539b715eac46578b014bf77843f979">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/37539b715eac46578b014bf77843f979-with-play.gif">
     </a>
   </div>
   
 
 
 ## Notes
+After using the extension to fix many problems that I had on the trivia I was able to successfully complete it with a unique twist.
 
-I am currently still in the process of the project thus far I am having an error with viewing my storybord and starting on the actual quiz aspect.
 ## License
 
     Copyright [2023] [Christopher Petit]
