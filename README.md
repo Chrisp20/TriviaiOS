@@ -22,8 +22,6 @@ The following **optional** features are implemented:
 - [ ] User can see how many questions they got correct after answering all questions
 - [ ] User should be able to restart the game after they've finished answering all questions
 
-The following **additional** features are implemented:
-
 - I feel that I did the assignment in a different way. I was still able to knock out all of the objectives but in a way that I was taught in Office Hours.
 
 ## Video Walkthrough
