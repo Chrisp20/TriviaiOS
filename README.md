@@ -33,7 +33,6 @@ The following **optional** features are implemented:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/37539b715eac46578b014bf77843f979-with-play.gif">
     </a>
   </div>
-  
 
 
 ## Notes
